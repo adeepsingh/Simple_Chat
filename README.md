@@ -6,7 +6,7 @@ Simple chat app made by using MongoDB and Socket.io. Check the dependencies and 
 
 ## Install Dependencies
 ```bash
-npm install (node.js)
+npm install 
 ```
 
 ## Run Server
